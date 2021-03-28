@@ -1,3 +1,3 @@
-### How to describe Xayah?
+### Hey, there 👋
 
-- " A naive idealist. "
+- " Ggraphics is awesome, isn't it? "
