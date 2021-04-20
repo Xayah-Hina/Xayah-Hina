@@ -1,3 +1,3 @@
 ### Hey, there 👋
 
-- " Graphics is awesome. "
+- " Every graphics programmer should have a pet ray-tracer. "
