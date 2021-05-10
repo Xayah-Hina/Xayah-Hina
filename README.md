@@ -1,3 +1,4 @@
 ### Hey, there 👋
 
-- " Every graphics programmer should have a pet ray-tracer. "
+- " Graphics is awesome. "
+- " Physics is the key. "
