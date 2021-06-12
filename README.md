@@ -1,4 +1,4 @@
 ### Hey, there 👋
 
 - " Graphics is awesome. "
-- " Simulation is the key. "
+- " Physics is the key. "
