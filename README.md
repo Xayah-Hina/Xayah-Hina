@@ -1,4 +1,3 @@
 ### Hey, there 👋
 
-- " Graphics is awesome. "
-- " Physics is the key. "
+I'm working on Physics-Based Animation and devote to simulate the nature more beautiful.
