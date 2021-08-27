@@ -1,6 +1,6 @@
 ### Hey, there 👋
 
-I'm currently working on Physics-Based Animation and devote to simulate the nature more beautiful.
+I'm currently working on Physics-Based Animation and devote to simulating the nature more beautiful.
 
 Learning List:
 
