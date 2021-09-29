@@ -1,9 +1,10 @@
-### Hey, there 👋
+### You're breathtaking! ❤
 
-I'm currently working on physics-based animation and devote to simulating the nature more beautiful.
+I'm currently working on physics-based simulation. Looking forward to making friends with you~
 
 Learning List:
 
+- Physically basde rendering.
 - [Taichi Programming Language](https://github.com/taichi-dev/taichi)
 - [Meshless Deformations Based on Shape Matching](https://www.cs.drexel.edu/~david/Classes/Papers/MeshlessDeformations_SIG05.pdf)
 - [FastLSM: Fast Lattice Shape Matching for Robust Real-Time Deformation](https://dl.acm.org/doi/abs/10.1145/1276377.1276480)
