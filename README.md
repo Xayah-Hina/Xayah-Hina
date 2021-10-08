@@ -4,7 +4,7 @@ I'm currently working on physics-based simulation. Looking forward to making fri
 
 Learning List:
 
-- Physically basde rendering.
+- Physically based rendering.
 - [Taichi Programming Language](https://github.com/taichi-dev/taichi)
 - [Meshless Deformations Based on Shape Matching](https://www.cs.drexel.edu/~david/Classes/Papers/MeshlessDeformations_SIG05.pdf)
 - [FastLSM: Fast Lattice Shape Matching for Robust Real-Time Deformation](https://dl.acm.org/doi/abs/10.1145/1276377.1276480)
