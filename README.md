@@ -1,6 +1,12 @@
-### You're breathtaking! ❤
+### 👋Hi~ There
 
-I'm currently working on physics-based simulation. Looking forward to making friends with you~
+I'm Xayah, working on Computer Graphics。❤
+
+Research Interests:
+
+- Physically Based Animation
+- Physically Based Rendering
+- High Performance Computing
 
 Learning List:
 
