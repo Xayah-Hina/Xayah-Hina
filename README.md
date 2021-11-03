@@ -1,4 +1,4 @@
-### 👋Hi~ There
+### 👋Hi~ there
 
 I'm Xayah, working on Computer Graphics。❤
 
