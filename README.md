@@ -10,4 +10,5 @@ Research Interests:
 
 Learning List:
 
+- Taichi Programming language (Awesome!
 - Rust Programming Language :p
