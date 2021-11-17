@@ -4,11 +4,12 @@ I'm Xayah, working on Computer Graphics。❤
 
 Research Interests:
 
-- Physically Based Animation
-- Physically Based Rendering
+- Physically-based Simulation
+- Physically-based Rendering
 - High Performance Computing
 
 Learning List:
 
+- Projective Dynamics: Fusing Constraint Projections for Fast Simulation
 - Taichi Programming language (Awesome!
 - Rust Programming Language :p
