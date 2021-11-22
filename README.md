@@ -11,5 +11,5 @@ Research Interests:
 Learning List:
 
 - Projective Dynamics: Fusing Constraint Projections for Fast Simulation
-- Taichi Programming language (Awesome!
+- Taichi Programming Language (Awesome!
 - Rust Programming Language :p
