@@ -1,9 +1,6 @@
 ### 👋Hi~ there
 
-I'm Xayah, working on Computer Graphics。❤
-
-Current Developing:
-- HinaPE
+I'm Xayah, working on Computer Graphics。I'm now on developing HinaPE which would be released recently!
 
 Research Interests:
 
