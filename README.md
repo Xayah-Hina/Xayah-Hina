@@ -10,6 +10,6 @@ Research Interests:
 
 Learning List:
 
+- GPGPU
 - Projective Dynamics: Fusing Constraint Projections for Fast Simulation
 - Taichi Programming Language (Awesome!
-- Rust Programming Language :p
