@@ -4,9 +4,9 @@ I'm Xayah, working on Computer Graphics。I'm now on developing HinaPE which wou
 
 Research Interests:
 
+- GPGPU
 - Physically-based Simulation
 - Physically-based Rendering
-- High Performance Computing
 
 Learning List:
 
