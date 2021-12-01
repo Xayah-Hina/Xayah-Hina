@@ -4,12 +4,10 @@ I'm Xayah, working on Computer Graphics。I'm now on developing HinaPE which wou
 
 Research Interests:
 
-- GPGPU
 - Physically-based Simulation
 - Physically-based Rendering
 
 Learning List:
 
 - GPGPU
-- Projective Dynamics: Fusing Constraint Projections for Fast Simulation
 - Taichi Programming Language (Awesome!
