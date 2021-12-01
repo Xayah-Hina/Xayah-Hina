@@ -10,4 +10,4 @@ Research Interests:
 Learning List:
 
 - GPGPU
-- Taichi Programming Language (Awesome!
+- Taichi Programming Language
