@@ -2,6 +2,10 @@
 
 I'm Xayah, working on Computer Graphics。I'm now on developing HinaPE which would be released recently!
 
+Working Now:
+
+- GPU Cloth
+
 Research Interests:
 
 - Physically-based Simulation
