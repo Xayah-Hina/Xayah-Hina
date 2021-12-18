@@ -4,7 +4,8 @@ I'm Xayah, working on Computer Graphics。I'm now on developing HinaPE which wou
 
 Working Now:
 
-- GPU Cloth
+- GPU Cloth sim
+- Large-scale Fluid sim
 
 Research Interests:
 
