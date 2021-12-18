@@ -14,5 +14,5 @@ Research Interests:
 
 Learning List:
 
-- GPGPU
+- GPGPU, Vulkan
 - Taichi Programming Language
