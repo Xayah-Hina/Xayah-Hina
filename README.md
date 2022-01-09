@@ -4,15 +4,10 @@ I'm Xayah, working on Computer Graphics。I'm now on developing HinaPE which wou
 
 Working Now:
 
-- GPU Cloth sim
-- Large-scale Fluid sim
+- PhysX
+- HinaPE
 
 Research Interests:
 
 - Physically-based Simulation
 - Physically-based Rendering
-
-Learning List:
-
-- GPGPU, Vulkan
-- Taichi Programming Language
