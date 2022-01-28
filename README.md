@@ -4,6 +4,7 @@ I'm Xayah, working on Computer Graphics。I'm now on developing HinaPE which wou
 
 Working Now:
 
+- Simulation & Rendering Lab
 - PhysX
 - HinaPE
 
