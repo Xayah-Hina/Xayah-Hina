@@ -7,7 +7,6 @@ Working Now:
 - Simulation & Rendering Lab
 - IPC
 - PhysX
-- HinaPE
 
 Research Interests:
 
