@@ -4,7 +4,7 @@
 <tr>
 <td>
 
-I'm Xayah, working on Computer Graphics。I'm now on developing HinaPE which would be released recently!
+I'm Xayah, working on Computer Graphics。
 
 Working Now:
 
