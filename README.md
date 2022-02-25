@@ -1,6 +1,6 @@
 ### 👋Hi~ there
 
-<table>
+<table border="0">
 <tr>
 <td>
 
