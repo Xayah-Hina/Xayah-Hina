@@ -12,7 +12,7 @@ Working Now:
 - IPC
 - PhysX
 
-Research Interests: 
+Research Interests:
 
 - Physically-based Simulation
 - Physically-based Rendering
