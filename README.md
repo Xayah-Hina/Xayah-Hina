@@ -8,8 +8,7 @@ I'm Xayah, working on Computer Graphics。
 
 Working Now:
 
-- Simulation & Rendering Lab
-- IPC
+- Fluid Sim
 - PhysX
 
 Research Interests:
