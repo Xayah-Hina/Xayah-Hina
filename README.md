@@ -4,7 +4,7 @@
 <tr>
 <td>
 
-I'm Xayah, working on Computer Graphics。
+I'm Xayah, working on Computer Graphics.
 
 Working Now:
 
