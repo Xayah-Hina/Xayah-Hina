@@ -16,7 +16,6 @@ Research Interests:
 - Physically-based Simulation
 - Physically-based Rendering
 
-
 </td>
 <td>
   
