@@ -20,7 +20,7 @@ Research Interests:
 </td>
 <td>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xayahp)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xayah-Hina)]()
 
 </td>
 </tr>
