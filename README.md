@@ -8,8 +8,8 @@ I'm Xayah, working on Computer Graphics.
 
 Working Now:
 
+- Pilot Engine
 - NPR
-- Taichi
 - Fluid Sim
 
 Research Interests:
