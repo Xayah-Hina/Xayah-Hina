@@ -6,10 +6,10 @@
 
 I'm Xayah, working on Computer Graphics.
 
-Working Now:
+Working on Now:
 
+- BGFX
 - Pilot Engine
-- NPR
 - Fluid Sim
 
 Research Interests:
