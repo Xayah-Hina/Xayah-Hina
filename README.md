@@ -8,6 +8,7 @@ I'm Xayah, working on Computer Graphics.
 
 Working on Now:
 
+- ayaka PathTracer
 - BGFX
 - Pilot Engine
 - Fluid Sim
