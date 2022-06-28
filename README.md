@@ -8,7 +8,7 @@ I'm Xayah, working on Computer Graphics.
 
 Working on Now:
 
-- ayaka PathTracer
+- High Performance Computing
 - XFEM Fracture
 - BGFX
 - Fluid Sim
@@ -17,6 +17,7 @@ Research Interests:
 
 - Physically-based Simulation
 - Physically-based Rendering
+- High Performance Computing
 
 </td>
 <td>
