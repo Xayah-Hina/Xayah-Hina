@@ -8,9 +8,8 @@ I'm Xayah, working on Computer Graphics.
 
 Working on Now:
 
-- High Performance Computing
+- HinaPE
 - XFEM Fracture
-- BGFX
 - Fluid Sim
 
 Research Interests:
