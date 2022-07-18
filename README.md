@@ -9,7 +9,6 @@ I'm Xayah, working on Computer Graphics.
 Working on Now:
 
 - HinaPE
-- Multi-threaded programming
 - XFEM Fracture
 - Fluid Sim
 
