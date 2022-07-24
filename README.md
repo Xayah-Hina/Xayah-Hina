@@ -21,7 +21,7 @@ Research Interests:
 </td>
 <td>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xayah-Hina)](https://github.com/Xayah-Hina/ayaka)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xayah-Hina)](https://github.com/Xayah-Hina/HinaPE)
 
 </td>
 </tr>
