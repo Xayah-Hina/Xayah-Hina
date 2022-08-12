@@ -9,13 +9,13 @@ I'm Xayah, working on Computer Graphics.
 Working on Now:
 
 - HinaPE
-- XFEM Fracture
-- Fluid Sim
+- Projective Dynamics
+- MPM
 
 Research Interests:
 
-- Physically-based Simulation
-- Physically-based Rendering
+- Physics-based Animation
+- Realistic Rendering
 - High Performance Computing
 
 </td>
