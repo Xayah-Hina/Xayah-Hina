@@ -15,7 +15,7 @@ Working on Now:
 Research Interests:
 
 - Physics-based Animation
-- Realistic Rendering
+- Photorealistic Rendering
 - High Performance Computing
 
 </td>
