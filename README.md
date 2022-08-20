@@ -11,7 +11,6 @@ Working on Now:
 - HinaPE
 - Projective Dynamics
 - MPM
-- Taichi
 
 Research Interests:
 
