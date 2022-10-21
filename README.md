@@ -9,7 +9,7 @@ I'm Xayah, working on Computer Graphics.
 Working on Now:
 
 - HinaPE
-- Projective Dynamics
+- PCISPH
 - MPM
 
 Research Interests:
