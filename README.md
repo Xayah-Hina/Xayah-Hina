@@ -4,13 +4,13 @@
 <tr>
 <td>
 
-I'm Xayah, working on Computer Graphics.
+I'm Xayah, working on Computer Graphics. In my spare time, I'm an amateur VOCALOID producer using Hatsune Miku.
 
 Working on Now:
 
 - HinaPE
 - PCISPH
-- MPM
+- FLIP
 
 Research Interests:
 
