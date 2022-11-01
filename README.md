@@ -11,7 +11,7 @@ In my spare time, I'm an amateur VOCALOID producer using Hatsune Miku.
 Working on Now:
 
 - HinaPE
-- PCISPH
+- MPM snow sim
 - FLIP
 
 Research Interests:
