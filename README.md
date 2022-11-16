@@ -10,9 +10,9 @@ In my spare time, I'm an amateur VOCALOID producer using Hatsune Miku.
 
 Working on Now:
 
+- Kasumi Renderer
 - HinaPE
 - MPM snow sim
-- FLIP
 
 Research Interests:
 
