@@ -23,7 +23,7 @@ Research Interests:
 </td>
 <td>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xayah-Hina)](https://github.com/Xayah-Hina/HinaPE)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xayah-Hina&langs_count=5&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide=css,html,objective-c,c)](https://github.com/Xayah-Hina/HinaPE)
 
 </td>
 </tr>
