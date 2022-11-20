@@ -10,9 +10,9 @@ In my spare time, I'm an amateur VOCALOID producer using Hatsune Miku.
 
 Working on Now:
 
-- Kasumi Renderer
-- HinaPE
-- MPM snow sim
+- [Kasumi Renderer](https://github.com/HinaPE/Kasumi-renderer)
+- [HinaPE](https://github.com/HinaPE/HinaPE)
+- MLS-MPM
 
 Research Interests:
 
