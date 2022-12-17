@@ -5,13 +5,19 @@
 <td>
 
 I'm Xayah, working on Computer Graphics.
+  
+こんにちは、Xayahと申します。Computer Graphicsのマニアです
 
 In my spare time, I'm an amateur VOCALOID producer using Hatsune Miku.
+  
+暇なときはね、よく初音ミクの歌声を借り、VOCALOIDの音楽の作るのがとても興味深い。
+  
+I also love making MikuMikuDance movies~
+  
+それに、MMD動画の作りがよくします〜
 
 Working on Now:
 
-- Vulkan
-- [Kasumi Renderer](https://github.com/HinaPE/Kasumi-renderer)
 - [HinaPE](https://github.com/HinaPE/HinaPE)
 - MLS-MPM
 
