@@ -1,8 +1,5 @@
 ### Hi~ there👋
-
-<table border="0">
-<tr>
-<td>
+<img align='right' src='https://github.com/Xayah-Hina/HinaPE-Resource/blob/95a5a02f54fdf7e7614a6e7cedd88de5b23117ec/image-bed/white.jpg?raw=true' width='410px'>
 
 I'm Xayah, working on Computer Graphics.
   
@@ -27,12 +24,3 @@ Research Interests:
 - Physics-based Animation
 - Photorealistic Rendering
 - High Performance Computing
-
-</td>
-<td>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xayah-Hina&langs_count=5&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide=css,html,objective-c,c)](https://github.com/Xayah-Hina/HinaPE)
-
-</td>
-</tr>
-</table>
