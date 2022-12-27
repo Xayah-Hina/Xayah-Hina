@@ -17,7 +17,6 @@ Working on Now:
 
 - [HinaPE](https://github.com/HinaPE/HinaPE)
 - MLS-MPM
-- Rust
 
 Research Interests:
 
