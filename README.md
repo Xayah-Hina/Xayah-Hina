@@ -17,6 +17,7 @@ Working on Now:
 
 - [HinaPE](https://github.com/HinaPE/HinaPE)
 - MLS-MPM
+- taichi C++
 
 Research Interests:
 
