@@ -16,8 +16,7 @@ I also love making MikuMikuDance movies~
 Working on Now:
 
 - [HinaPE](https://github.com/HinaPE/HinaPE)
-- MLS-MPM
-- taichi C++
+- MLS-MPM snow sim
 
 Research Interests:
 
