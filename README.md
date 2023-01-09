@@ -16,7 +16,7 @@ I also love making MikuMikuDance movies~
 Working on Now:
 
 - [HinaPE](https://github.com/HinaPE/HinaPE)
-- MLS-MPM snow sim
+- MPM snow sim
 
 Research Interests:
 
