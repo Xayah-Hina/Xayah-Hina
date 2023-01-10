@@ -11,7 +11,7 @@ In my spare time, I'm an amateur VOCALOID producer using Hatsune Miku.
   
 I also love making MikuMikuDance movies~
   
-それに、MMD動画の作りがよくします〜
+それに、MMD動画の作りがよくしています〜
 
 Working on Now:
 
