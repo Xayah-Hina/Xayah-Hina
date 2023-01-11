@@ -17,6 +17,7 @@ Working on Now:
 
 - [HinaPE](https://github.com/HinaPE/HinaPE)
 - MPM snow sim
+- prepare for a awesome-graphics repo
 
 Research Interests:
 
