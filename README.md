@@ -17,7 +17,7 @@ Working on Now:
 
 - [HinaPE](https://github.com/HinaPE/HinaPE)
 - Interlinked SPH Pressure Solvers for Strong Fluid-Rigid Coupling
-- MPM snow sim
+- NeRF
 
 Research Interests:
 
