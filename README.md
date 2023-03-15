@@ -16,7 +16,7 @@ I also love making MikuMikuDance movies~
 Working on Now:
 
 - [HinaPE](https://github.com/HinaPE/HinaPE)
-- Interlinked SPH Pressure Solvers for Strong Fluid-Rigid Coupling
+- MLS-MPM
 - NeRF
 
 Research Interests:
