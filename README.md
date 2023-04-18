@@ -15,9 +15,8 @@ I also love making MikuMikuDance movies~
 
 Working on Now:
 
-- [HinaPE](https://github.com/HinaPE/HinaPE)
-- MLS-MPM
-- NeRF
+- Inverse Rendering
+- Physical Weather System
 
 Research Interests:
 
