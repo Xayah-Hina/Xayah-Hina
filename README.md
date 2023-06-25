@@ -16,8 +16,7 @@ I also love making MikuMikuDance movies~
 Working on Now:
 
 - Air Meshes for Robust Collision Handling
-- Inverse Rendering
-- Physical Weather System
+- NVIDIA warp
 
 Research Interests:
 
