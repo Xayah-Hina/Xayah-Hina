@@ -15,8 +15,7 @@ I also love making MikuMikuDance movies~
 
 Working on Now:
 
-- Air Meshes for Robust Collision Handling
-- NVIDIA warp
+- Houdini HDK
 
 Research Interests:
 
