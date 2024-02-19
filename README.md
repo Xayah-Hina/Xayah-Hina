@@ -16,6 +16,7 @@ I also love making MikuMikuDance movies~
 Working on Now:
 
 - Houdini HDK
+- CS 188
 
 Research Interests:
 
