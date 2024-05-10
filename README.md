@@ -15,7 +15,8 @@ I also love making MikuMikuDance movies~
 
 Working on Now:
 
-- Houdini HDK
+- Differentiable Simulation
+- Deep Learning
 - CS 188
 
 Research Interests:
