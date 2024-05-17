@@ -21,6 +21,6 @@ Working on Now:
 
 Research Interests:
 
-- Physics-based Animation
-- Photorealistic Rendering
+- Physics-based Deep Learning
+- Fluid Capture & 3D Reconstruction
 - High Performance Computing
