@@ -13,4 +13,4 @@ Research Interests:
 
 - Physics-based Deep Learning
 - Fluid Capture & 3D Reconstruction
-- High Performance Computing
+- Fast Primal-Dual optimization. 
