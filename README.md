@@ -7,6 +7,7 @@ Working on Now:
 
 - Differentiable Simulation
 - Deep Learning
+- CS 231n
 - CS 348C
 
 Research Interests:
