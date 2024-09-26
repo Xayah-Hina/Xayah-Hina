@@ -5,6 +5,7 @@ I'm Xayah, working on Computer Graphics.
 
 Working on Now:
 
+- Instant NGP / Gaussian Splatting
 - Differentiable Simulation
 - Deep Learning
 - CS 231n
