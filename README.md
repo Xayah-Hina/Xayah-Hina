@@ -6,11 +6,10 @@ My research objective is to simulate realistic natural phenomena on computer scr
 
 Working on Now:
 
-- Physics Informed Complex Fluid Scene Recognition
+- Intuitive Physics-based Simulation
 
 Research Interests:
 
+- Intuitive Physics & Differentiable Physics
 - Physics-based Deep Learning
 - Nerual Fluids & Neural Cloth
-- Fluid Capture & 3D Reconstruction
-- Fast Primal-Dual optimization. 
