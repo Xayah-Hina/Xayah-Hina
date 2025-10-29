@@ -13,3 +13,4 @@ Research Interests:
 - Intuitive Physics & Differentiable Physics
 - Physics-based Deep Learning
 - Nerual Fluids & Neural Cloth
+https://chatgpt.com/share/6901b80a-ba18-800a-a7f9-20634ac35cb6
