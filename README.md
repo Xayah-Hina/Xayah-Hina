@@ -7,4 +7,5 @@ My work focuses on integrating traditional *differentiable simulation* with *dee
 - *Physics-based Deep Learning*  
 - *Differentiable Simulation*
 
-If you're interested in my research or my music, feel free to reach out via [graphics@xayah.me](mailto:graphics@xayah.me) or [music@xayah.me](mailto:music@xayah.me).
+---
+> If you're interested in my research or my music, feel free to reach out via [graphics@xayah.me](mailto:graphics@xayah.me) or [music@xayah.me](mailto:music@xayah.me).
