@@ -9,5 +9,3 @@ My work focuses on integrating traditional *differentiable simulation* with *dee
 
 ---
 > If you're interested in my research or my music, feel free to reach out via [graphics@xayah.me](mailto:graphics@xayah.me) or [music@xayah.me](mailto:music@xayah.me).
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Xayah-Hina&theme=dark&hide_border=true)](https://git.io/streak-stats)
