@@ -5,8 +5,7 @@ My interests focus on integrating traditional *differentiable simulation* with *
 
 #### Research Interests
 - *Physics-based Deep Learning*  
-- *Differentiable Simulation*
-- *Differentiable Rendering*
+- *Simulation-based Inference*
 
 ---
-> If you're interested in my research or my music, feel free to reach out via [graphics@xayah.me](mailto:graphics@xayah.me) or [music@xayah.me](mailto:music@xayah.me).
+> If you're interested in my research, feel free to reach out via [graphics@xayah.me](mailto:graphics@xayah.me).
